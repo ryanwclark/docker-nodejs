@@ -2,7 +2,6 @@
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/ryanwclark/nodejs.svg)](https://hub.docker.com/r/ryanwclark/nodejs)
 [![Docker Stars](https://img.shields.io/docker/stars/ryanwclark/nodejs.svg)](https://hub.docker.com/r/ryanwclark/nodejs)
-[![Docker Layers](https://images.microbadger.com/badges/image/ryanwclark/nodejs.svg)](https://microbadger.com/images/ryanwclark/nodejs)
 
 ## Introduction
 
@@ -17,17 +16,19 @@ This container uses [Alpine](https://hub.docker.com/r/ryanwclark/alpine) and [De
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Authors](#authors)
-- [Table of Contents](#table-of-contents)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-	- [Quick Start](#quick-start)
-	- [Data-Volumes](#data-volumes)
-	- [Environment Variables](#environment-variables)
-	- [Networking](#networking)
-	- [Shell Access](#shell-access)
-- [References](#references)
+- [NodeJS](#nodejs)
+	- [Introduction](#introduction)
+	- [Authors](#authors)
+	- [Table of Contents](#table-of-contents)
+	- [Prerequisites](#prerequisites)
+- [Dependencies](#dependencies)
+	- [Installation](#installation)
+		- [Quick Start](#quick-start)
+		- [Data-Volumes](#data-volumes)
+		- [Environment Variables](#environment-variables)
+		- [Networking](#networking)
+		- [Shell Access](#shell-access)
+	- [References](#references)
 
 
 ## Prerequisites
